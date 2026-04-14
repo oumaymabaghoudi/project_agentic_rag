@@ -1,0 +1,22 @@
+[
+  {"subject": "Albert Einstein", "relation": "developed", "object": "the theory of relativity"},
+  {"subject": "Albert Einstein", "relation": "worked_at", "object": "Princeton University"},
+  {"subject": "Marie Curie", "relation": "researched", "object": "radioactivity"},
+  {"subject": "Marie Curie", "relation": "worked_at", "object": "the Sorbonne"},
+  {"subject": "Isaac Newton", "relation": "formulated", "object": "the laws of motion"},
+  {"subject": "Isaac Newton", "relation": "worked_at", "object": "the University of Cambridge"},
+  {"subject": "Ada Lovelace", "relation": "is_considered", "object": "the first computer programmer"},
+  {"subject": "Ada Lovelace", "relation": "worked_on", "object": "Charles Babbage's Analytical Engine"},
+  {"subject": "Alan Turing", "relation": "contributed_to", "object": "computer science and artificial intelligence"},
+  {"subject": "Alan Turing", "relation": "worked_at", "object": "the University of Manchester"},
+  {"subject": "Princeton University", "relation": "located_in", "object": "New Jersey"},
+  {"subject": "New Jersey", "relation": "in_country", "object": "United States"},
+  {"subject": "the Sorbonne", "relation": "located_in", "object": "Paris"},
+  {"subject": "Paris", "relation": "in_country", "object": "France"},
+  {"subject": "the University of Cambridge", "relation": "located_in", "object": "Cambridge"},
+  {"subject": "Cambridge", "relation": "in_country", "object": "United Kingdom"},
+  {"subject": "the University of Manchester", "relation": "located_in", "object": "Manchester"},
+  {"subject": "Manchester", "relation": "in_country", "object": "United Kingdom"},
+  {"subject": "Princeton University", "relation": "located_in", "object": "New Jersey"},
+  {"subject": "the University of Manchester", "relation": "located_in", "object": "Manchester"}
+]

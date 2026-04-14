@@ -1,0 +1,18 @@
+Albert Einstein developed the theory of relativity.
+Albert Einstein worked at Princeton University.
+Marie Curie conducted pioneering research on radioactivity.
+Marie Curie worked at the Sorbonne.
+Isaac Newton formulated the laws of motion.
+Isaac Newton worked at the University of Cambridge.
+Ada Lovelace is considered the first computer programmer.
+Ada Lovelace worked on Charles Babbage's Analytical Engine.
+Alan Turing contributed to computer science and artificial intelligence.
+Alan Turing worked at the University of Manchester.
+Princeton University is located in New Jersey.
+New Jersey is in the United States.
+The Sorbonne is located in Paris.
+Paris is in France.
+The University of Cambridge is located in Cambridge.
+Cambridge is in the United Kingdom.
+The University of Manchester is located in Manchester.
+Manchester is in the United Kingdom.
